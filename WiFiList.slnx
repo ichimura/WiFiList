@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WiFiList.vcxproj" Id="2447fb3d-c671-42db-a11d-d5c4ee03b3ee" />
+</Solution>
